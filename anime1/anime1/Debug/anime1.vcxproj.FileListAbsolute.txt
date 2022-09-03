@@ -1,0 +1,3 @@
+D:\C++\anime1\anime1\Debug\anime1.vcxproj.AssemblyReference.cache
+D:\C++\anime1\anime1\Debug\anime1.MyForm.resources
+D:\C++\anime1\anime1\Debug\anime1.vcxproj.GenerateResource.cache

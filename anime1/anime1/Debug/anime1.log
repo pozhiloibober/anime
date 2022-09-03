@@ -1,0 +1,39 @@
+﻿  MyForm.cpp
+D:\C++\anime1\anime1\MyForm.h(535,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(637,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(640,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(643,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(686,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(734,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(744,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(750,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(796,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(806,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(812,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(856,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(864,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(872,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(880,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(889,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(913,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(922,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(990,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(998,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1006,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1014,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1038,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1047,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1058,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1121,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\C++\anime1\anime1\MyForm.h(1123,28): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\C++\anime1\anime1\MyForm.h(1139,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\anime1\anime1\MyForm.h(1140,34): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\C++\anime1\anime1\MyForm.h(1158,17): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\C++\anime1\anime1\MyForm.h(1167,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\anime1\anime1\MyForm.h(1167,48): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\C++\anime1\anime1\MyForm.h(1188,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1191,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.h(1194,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\C++\anime1\anime1\MyForm.cpp(6,1): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  anime1.vcxproj -> D:\C++\anime1\Debug\anime1.exe
